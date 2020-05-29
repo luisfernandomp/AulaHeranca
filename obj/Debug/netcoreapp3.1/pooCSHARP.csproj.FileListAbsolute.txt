@@ -1,0 +1,13 @@
+C:\Users\Luiz Fernando\Documents\pooCSHARP\bin\Debug\netcoreapp3.1\pooCSHARP.exe
+C:\Users\Luiz Fernando\Documents\pooCSHARP\bin\Debug\netcoreapp3.1\pooCSHARP.deps.json
+C:\Users\Luiz Fernando\Documents\pooCSHARP\bin\Debug\netcoreapp3.1\pooCSHARP.runtimeconfig.json
+C:\Users\Luiz Fernando\Documents\pooCSHARP\bin\Debug\netcoreapp3.1\pooCSHARP.runtimeconfig.dev.json
+C:\Users\Luiz Fernando\Documents\pooCSHARP\bin\Debug\netcoreapp3.1\pooCSHARP.dll
+C:\Users\Luiz Fernando\Documents\pooCSHARP\bin\Debug\netcoreapp3.1\pooCSHARP.pdb
+C:\Users\Luiz Fernando\Documents\pooCSHARP\obj\Debug\netcoreapp3.1\pooCSHARP.csprojAssemblyReference.cache
+C:\Users\Luiz Fernando\Documents\pooCSHARP\obj\Debug\netcoreapp3.1\pooCSHARP.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Fernando\Documents\pooCSHARP\obj\Debug\netcoreapp3.1\pooCSHARP.AssemblyInfoInputs.cache
+C:\Users\Luiz Fernando\Documents\pooCSHARP\obj\Debug\netcoreapp3.1\pooCSHARP.AssemblyInfo.cs
+C:\Users\Luiz Fernando\Documents\pooCSHARP\obj\Debug\netcoreapp3.1\pooCSHARP.dll
+C:\Users\Luiz Fernando\Documents\pooCSHARP\obj\Debug\netcoreapp3.1\pooCSHARP.pdb
+C:\Users\Luiz Fernando\Documents\pooCSHARP\obj\Debug\netcoreapp3.1\pooCSHARP.genruntimeconfig.cache
